@@ -1,3 +1,5 @@
+For today's lecture we used the template this repository is from to explore Bash and Make as tools for building data pipelines. Original README is as follows:
+
 ## Building a Data Analysis pipeline using a shell script tutorial
 adapted from [Software Carpentry](http://software-carpentry.org/)
 
